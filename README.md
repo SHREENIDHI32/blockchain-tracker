@@ -17,5 +17,5 @@ This app combines a classic to-do list with cutting-edge blockchain features. Ea
 1. **Clone the Repo**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/SHREENIDHI32/blockchain-tracker.git
+   cd blockchain-tracker
