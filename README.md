@@ -19,3 +19,23 @@ This app combines a classic to-do list with cutting-edge blockchain features. Ea
    ```bash
    git clone https://github.com/SHREENIDHI32/blockchain-tracker.git
    cd blockchain-tracker
+   
+Install Dependencies:
+
+Make sure you have Node.js and npm installed. Then, run:
+
+
+**npm install**
+Run the App:
+
+Start the development server with:
+
+
+**npm start**
+Open your browser and go to** http://localhost:3000** to see your to-do list in action!
+
+Project Files 📁
+/src/App.js: The heart of our app.
+/src/App.css: Where the magic of styling happens.
+/src/blockchain.png: Our cool blockchain-themed graphic.
+/src/index.js: The starting point of the React app.
